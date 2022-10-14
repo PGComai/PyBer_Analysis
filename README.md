@@ -2,7 +2,7 @@
 
 ## Overview
 
-The CEO of our new employer, the ride-sharing platform PyBer, V. Isualize, tasked us with analyzing and visualizing rideshare data from Jan to May of 2019. To achieve this, we used our Python skills with pandas, matplotlib, and numpy. We analyzed data which described PyBer statistics such as ride fare, number of drivers, and the driver city. The data were grouped into three categories of city; urban, suburban, and rural. Our analysis found several differences between PyBer rides according to their city type.
+The CEO of our new employer, the ride-sharing platform PyBer, V. Isualize, tasked us with analyzing and visualizing rideshare data from Jan to May of 2019. To achieve this, we used our Python skills with pandas, matplotlib, and numpy. We analyzed data which described PyBer statistics such as ride fare, number of drivers, and the driver city. The data were grouped into three categories of city: urban, suburban, and rural. Our analysis found several differences between PyBer rides according to their city type.
 
 ## Results
 
@@ -25,5 +25,13 @@ The CEO of our new employer, the ride-sharing platform PyBer, V. Isualize, taske
 
 ![image](/Analysis/Fig7.png)
 
+- Seasonal variation in ride fares seems negligible. (PyBer_fare_summary)
+
+![image](/Analysis/PyBer_fare_summary.png)
+
 ## Summary
  
+Our recommendations to V. Isualize are to:
+- Investigate whether the lack of drivers in rural areas is due to a lack of demand, or if those communities are being underserved.
+- Encourage driving in rural and suburban communities, since the percentage of drivers in those areas is less than the percentage of rides they see.
+- Try to make fares more affordable in rural areas.
