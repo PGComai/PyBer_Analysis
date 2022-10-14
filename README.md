@@ -8,6 +8,7 @@ The CEO of our new employer, the ride-sharing platform PyBer, V. Isualize, taske
 
 # Key Takeaways:
 - The more urban the city, the more drivers and rides could be found there, and the cheaper the fare. (Fig 1)
+![image](/Resources/Fig1.png)
 - Differences in fare were visibile, but not super significant and often within error margins. (Fig 3)
 - Most fare income is concentrated in urban areas, and very little comes from rural areas The same is true for the number of rides. (Figs 5, 6)
 - 80% of all PyBer drivers operate in urban areas. (Fig 7)
