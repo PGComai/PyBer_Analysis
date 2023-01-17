@@ -6,7 +6,7 @@ The CEO of our new employer, the ride-sharing platform PyBer, V. Isualize, taske
 
 ## Results
 
-# Key Takeaways:
+### Key Takeaways:
 - The more urban the city, the more drivers and rides could be found there, and the cheaper the fare. (Fig 1)
 
 ![image](/Analysis/Fig1.png)
